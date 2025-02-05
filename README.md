@@ -1,7 +1,7 @@
 ![logo](https://github.com/Tanubose/Tanubose/blob/main/Black%20and%20White%20Modern%20Professional%20Sales%20and%20Marketing%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Tanu Bose</h1>
 <h3 align="center">An Aspiring Data Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/4f04b168-5908-4aea-869e-a3fb0a20efa6.">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/4f04b168-5908-4aea-869e-a3fb0a20efa6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanubose&label=Profile%20views&color=0e75b6&style=flat" alt="tanubose" /> </p>
 
