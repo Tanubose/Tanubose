@@ -1,3 +1,4 @@
+![logo](https://github.com/Tanubose/Tanubose/blob/main/Black%20and%20White%20Modern%20Professional%20Sales%20and%20Marketing%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Tanu Bose</h1>
 <h3 align="center">An Aspiring Data Analyst from India</h3>
 
